@@ -1,0 +1,49 @@
+.media-list{
+	width: 100%;
+	display: block;
+}
+.media-body{
+	width: 100%;
+	display: block;
+	padding-left: 20px;
+}
+.media-heading{
+	width: 100%;
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	padding-left: 100px;
+	border-bottom: 1px solid #eee;
+	position: relative;
+}
+.shrink{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
+.add {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 80px;
+	margin: auto;
+}
+.rm{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	margin: 0;
+}
+input{
+	width: 100%;
+	height: 100%;
+	border: 0;
+	background: transparent;
+}
+.panel-heading{
+	position: relative;
+	padding-left: 100px;
+}
